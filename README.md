@@ -1,7 +1,4 @@
-# Financial-Analysis
-• Conducted a finance analysis, leveraging interactive visualizations and insightful report.
-• Analyzed performance, revenue trends, and profitability, resulting in enhancing the 14% profit margin.
-• Employed conditional formatting techniques, enhancing data accessibility and user-friendliness
-• Demonstrated advanced proficiency in data visualization, employing innovative
-storytelling techniques to convey complex finance data effectively.
-• Expertise in analytical capabilities led to a 29% increase in profitability .
+### Financial-Analysis
+*Executed comprehensive financial analysis to identify key trends and insights, enabling strategic decision-making.
+*Developed and implemented interactive dashboards to visualize revenue trends, significantly enhancing stakeholders' understanding of the data, thereby increasing the profit margin from 14.23% to 20%
+*Created comprehensive reports in word utilizing conditional formatting to highlight critical data points, expediting assessments and helping to recover from the 26% loss experienced last season.
